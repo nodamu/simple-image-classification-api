@@ -7,3 +7,8 @@
 * Keras
 * gevent
 * Pillow
+
+###
+``` shell
+python demo.py --image car2.png --model xception
+```

@@ -5,6 +5,7 @@ from keras.applications import imagenet_utils
 from PIL import Image
 import numpy as np
 import flask
+from flask import Flask,render
 import io
 
 # initialize our Flask application and the Keras model
